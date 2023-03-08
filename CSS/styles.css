@@ -13,21 +13,21 @@ h1 {
     margin-top: 20px;
     font-family: "Dancing Script", cursive;
     font-size: 5rem;
-    color: rgb(0, 187, 255);
+    color: rgb(75, 207, 255);
     line-height: 1;
 }
 
 h2 {
     font-weight: normal;
     font-size: 1.5rem;
-    color: rgb(0, 187, 255);
+    color: rgb(75, 207, 255);
 }
 
 p{
 }
 
 #top-container{
-    background-color: green;
+    background-color: rgb(44, 148, 44);
     position: relative;
     padding-top: 1px;
     height: 100vh;
@@ -143,9 +143,6 @@ a{
     width: 80px;
     height: 80px;
 }
-
-
-
 
 @keyframes animate {
     100% {
