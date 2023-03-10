@@ -49,6 +49,7 @@ a:hover {
 
 
 #top-container{
+    padding-top: 40px;
     background-color: rgb(44, 148, 44);
     position: relative;
     height: 100vh;
